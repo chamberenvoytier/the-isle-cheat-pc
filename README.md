@@ -1,9 +1,8 @@
-# the-isle-cheat-pc
-<div align="center">
+<div align="center" id="top">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:06140f,45:0d3b2a,100:B6FF3C&height=230&section=header&text=THE%20ISLE%20CHEAT&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=PC%20%C2%B7%20external%20ESP%20%C2%B7%20combat%20assist%20%C2%B7%20growth%20control&descAlignY=56&descSize=15&descColor=B6FF3C&animation=fadeIn" width="100%" alt="The Isle Cheat PC">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:B6FF3C,50:0d3b2a,100:06140f&height=220&section=header&text=THE%20ISLE%20CHEAT&fontSize=50&fontColor=ffffff&fontAlignY=32&desc=PC%20%C2%B7%20external%20ESP%20%C2%B7%20combat%20assist%20%C2%B7%20growth%20control&descAlignY=54&descSize=15&descColor=B6FF3C&animation=fadeIn" width="100%" alt="The Isle Cheat">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2900&pause=900&color=B6FF3C&center=true&vCenter=true&width=800&lines=Hunt.+Grow.+Survive.+Without+the+six-hour+part.;ESP+that+reads+stage+and+mutations.;Silent+assist+%E2%80%94+nothing+snaps+on+camera.;Evrima+0.21.x+and+Legacy+in+one+build.;External.+No+driver.+No+injection." alt="typing">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=B6FF3C&center=true&vCenter=true&width=800&lines=Hunt.+Grow.+Survive.+Minus+the+six-hour+part.;Every+target+tagged+by+stage+and+mutation.;Silent+assist+%E2%80%94+the+camera+never+snaps.;Evrima+0.21.x+and+Legacy+from+one+build.;External.+No+driver.+No+injection." alt="typing">
 
 <br><br>
 
@@ -14,13 +13,13 @@
 <br><br>
 
 ![asset](https://img.shields.io/badge/archive-The--Isle--Cheat--v2.4.1.zip-1F1F1F?style=flat-square&labelColor=141414)
-![size](https://img.shields.io/badge/size-26.4%20MB-1F1F1F?style=flat-square&labelColor=141414)
-![sha](https://img.shields.io/badge/SHA256-in%20release%20notes-1F1F1F?style=flat-square&labelColor=141414)
+![size](https://img.shields.io/badge/size-10.90%20MB-1F1F1F?style=flat-square&labelColor=141414)
+![hash](https://img.shields.io/badge/SHA256-in%20release%20notes-1F1F1F?style=flat-square&labelColor=141414)
 
 <br>
 
 [![releases](https://img.shields.io/badge/all%20releases-1F1F1F?style=for-the-badge&logo=github&logoColor=white)](../../releases)
-[![issues](https://img.shields.io/badge/%F0%9F%90%9E%20report%20a%20bug-1F1F1F?style=for-the-badge)](../../issues/new?template=bug.yml)
+[![bugs](https://img.shields.io/badge/%F0%9F%90%9E%20report%20a%20bug-1F1F1F?style=for-the-badge)](../../issues/new?template=bug.yml)
 [![wiki](https://img.shields.io/badge/%F0%9F%93%96%20wiki-1F1F1F?style=for-the-badge)](../../wiki)
 
 <br>
@@ -36,33 +35,33 @@
 
 <table align="center" width="100%">
 <tr>
-<td align="center" width="25%">🎯<br><b>SILENT ASSIST</b><br><sub>correction at the bite frame<br>camera never snaps</sub></td>
+<td align="center" width="25%">🎯<br><b>SILENT ASSIST</b><br><sub>correction on the bite frame<br>camera stays still</sub></td>
 <td align="center" width="25%">🦴<br><b>STAGE INTEL</b><br><sub>H · J · SA · A · Prime · Frail<br>plus mutation count</sub></td>
-<td align="center" width="25%">🌿<br><b>DIET MAPPER</b><br><sub>food sorted by your own bars<br>S · // · ∴</sub></td>
+<td align="center" width="25%">🌿<br><b>DIET MAPPER</b><br><sub>food ranked by your own bars<br>S · // · ∴</sub></td>
 <td align="center" width="25%">🛡<br><b>NO DRIVER</b><br><sub>external process<br>nothing to scan at boot</sub></td>
 </tr>
 </table>
 
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d3b2a,55:B6FF3C,100:FF6B00&height=3&section=header">
 
-## 🧬 The island is six hours long
+## 🧬 Six hours of island, minus the six hours
 
 Two of them are a T-Rex growing. One is a bad corner. The rest is fern rendered on top of a
 hitbox the size of a pixel, and the only intel on the thing in front of you is *"is that an
 adult"*.
 
-The game already pays a perfect diet with up to 300 % growth and takes it back with bleed,
-fracture and night. So this build doesn't invent a new game — it gives back the senses and
-removes the friction.
+The game already pays a perfect diet up to 300 % growth, then takes it back with bleed, fracture
+and night. This build doesn't invent a different game — it gives the senses back and removes the
+friction.
 
 <table>
 <tr><th align="left" width="50%">🦖 Vanilla</th><th align="left" width="50%">⚡ With this build</th></tr>
-<tr><td>Squint into foliage until something moves</td><td>Species, stage and health float over the fern</td></tr>
-<tr><td>Guess whether the fight is winnable</td><td>Stat bars and mutation count say it before you commit</td></tr>
+<tr><td>Squint into foliage until something moves</td><td>Species, stage and health float above the fern</td></tr>
+<tr><td>Guess whether the fight is winnable</td><td>Stat bars and mutation count settle it before you commit</td></tr>
 <tr><td>Whiff bites at a moving capsule</td><td>Hitbox drawn, bite gated to true reach</td></tr>
-<tr><td>React to a pounce at 40 ms</td><td>Pounce window and landing point drawn first</td></tr>
-<tr><td>Eat the wrong plant, drop the buff</td><td>Diet mapper highlights exactly what feeds your bars</td></tr>
-<tr><td>Night, fog, rain, grass over the fight</td><td>Full bright, no fog, no grass — one toggle each</td></tr>
+<tr><td>React to a pounce in 40 ms</td><td>Pounce window and landing point drawn first</td></tr>
+<tr><td>Eat the wrong plant, lose the buff</td><td>Diet mapper highlights exactly what feeds your bars</td></tr>
+<tr><td>Night, fog, rain and grass over the fight</td><td>Full bright, no fog, no grass — one toggle each</td></tr>
 </table>
 
 <details>
@@ -70,36 +69,35 @@ removes the friction.
 
 <br>
 
-[What's in the archive](#-whats-in-the-archive) · [Quick start](#-quick-start) ·
-[Feature atlas](#-feature-atlas) · [Combat deep dive](#-combat-deep-dive) ·
-[Comparison](#-comparison) · [Spec sheet](#-spec-sheet) · [Hotkeys](#-hotkeys) ·
-[Profiles by archetype](#-profiles-by-archetype) · [Supported builds](#-supported-builds) ·
+[Archive](#-in-the-archive) · [Quick start](#-quick-start) · [Feature atlas](#-feature-atlas) ·
+[Combat deep dive](#-combat-deep-dive) · [Comparison](#-comparison) · [Spec sheet](#-spec-sheet) ·
+[Hotkeys](#-hotkeys) · [Archetypes](#-presets-by-archetype) · [Supported builds](#-supported-builds) ·
 [EAC surface](#-eac-surface) · [Performance](#-performance) · [Limits](#-limits) ·
 [FAQ](#-faq) · [Troubleshooting](#-troubleshooting) · [Changelog](#-changelog) ·
-[Roadmap](#-roadmap) · [Repository layout](#-repository-layout) ·
-[Build from source](#-build-from-source) · [Credits](#-credits) · [Disclaimer](#-disclaimer)
+[Roadmap](#-roadmap) · [Layout](#-repository-layout) · [Build from source](#-build-from-source) ·
+[Credits](#-credits) · [Disclaimer](#-disclaimer)
 
 </details>
 
 ---
 
-## 📦 What's in the archive
+## 📦 In the archive
 
 > [!CAUTION]
 > Take the build from **this repository's Releases** only. Mirrors exist and their tags drift.
 
-`The-Isle-Cheat-v2.4.1.zip` — **26.4 MB**, SHA256 on the first line of the release notes.
+`The-Isle-Cheat-v2.4.1.zip` — **10.90 MB**, SHA256 on the first line of the release notes.
 
 | File | Purpose |
 |---|---|
 | `isle.exe` | The loader. This is the one you run. |
 | `isle.json` | Default config — keep it, it survives updates |
-| `\data\` | Offsets and branch tables for Evrima and Legacy |
+| `\data\` | Offsets and branch tables, Evrima and Legacy |
 | `\profiles\` | Shipped presets — carnivore, herbivore, semi-aquatic |
 | `README.txt` | Offline install sheet and hotkey card |
 
 `isle.exe` carries a self-signed signature, so SmartScreen raises the blue prompt on first run:
-**More info → Run anyway**. Verify before you launch:
+**More info → Run anyway**. Verify before launching:
 
 ```powershell
 Get-FileHash .\The-Isle-Cheat-v2.4.1.zip -Algorithm SHA256
@@ -146,7 +144,7 @@ Get-FileHash .\The-Isle-Cheat-v2.4.1.zip -Algorithm SHA256
 | `Nest & egg ESP` | Nests, egg count, hatch progress | 200 m |
 | `AI ESP` | Wild AI muted, kept apart from players | 300 m |
 | `Group ESP` | Teammates in their own colour, outlined | 400 m |
-| `Threat sort` | Closest adult carnivore first, rest fades | — |
+| `Threat sort` | Closest adult carnivore first, the rest fades | — |
 | `Occlusion mode` | Line of sight only, for crowded servers | — |
 
 <details>
@@ -169,10 +167,10 @@ Get-FileHash .\The-Isle-Cheat-v2.4.1.zip -Algorithm SHA256
 | Module | Behaviour |
 |---|---|
 | `Aim assist` | Pulls the camera to the damage point, strength adjustable |
-| `Silent assist` | Correction at the bite frame only — camera untouched |
+| `Silent assist` | Correction on the bite frame only — camera untouched |
 | `Bone priority` | Head · neck · spine · leg, per-species presets |
 | `Pounce marker` | Window and predicted landing point |
-| `Grab helper` | Range and angle readout for grab-capable species |
+| `Grab helper` | Range and angle readout, grab-capable species |
 | `Hitbox draw` | Renders the real damage capsule |
 | `Prediction` | Leads moving targets for tail and pounce |
 | `Trade window` | Marks the incoming attack window |
@@ -182,7 +180,7 @@ Get-FileHash .\The-Isle-Cheat-v2.4.1.zip -Algorithm SHA256
 
 > [!IMPORTANT]
 > `Silent assist` and `Aim assist` are mutually exclusive. Silent is the one for recording —
-> nothing snaps on camera, the clip reads as raw gameplay.
+> nothing snaps on camera and the clip reads as raw gameplay.
 
 ### 🌱 Growth, diet & survival
 
@@ -216,11 +214,11 @@ Get-FileHash .\The-Isle-Cheat-v2.4.1.zip -Algorithm SHA256
 
 > [!WARNING]
 > `Teleport` is the loudest module on a populated server and Gateway is big. Split anything past
-> ~2 km or you'll rubber-band back to the river.
+> ~2 km into two hops or you'll rubber-band back to the river.
 
 ### 🌫 World & visuals
 
-<sub>Make the map readable, keep the mood.</sub>
+<sub>Make the map readable without flattening it.</sub>
 
 | Module | Behaviour |
 |---|---|
@@ -263,8 +261,8 @@ you left it. On a recorded clip there is no visible pull — only a suspicious h
 
 **Hitbox + range gate**
 
-The real damage capsule is drawn, and the bite is held until the capsule is genuinely inside
-reach. Misses stop being a timing lottery and start being a positioning mistake.
+The real damage capsule is drawn and the bite is held until that capsule is genuinely inside
+reach. Misses stop being a timing lottery and become a positioning mistake.
 
 `hitbox on` · `gate 0.4 m`
 
@@ -273,15 +271,15 @@ reach. Misses stop being a timing lottery and start being a positioning mistake.
 
 **Pounce marker**
 
-Window, angle and predicted landing point for pounce-capable species. Works out of reach, so you
+Window, angle and predicted landing point for pounce-capable species. Reads out of reach, so you
 commit on information instead of reflex.
 
 </td><td valign="top">
 
 **Grab helper**
 
-Holds a grab-angle readout for grab-capable species and drops the correction the moment the hold
-connects, so the drag stays clean.
+Holds a grab-angle readout and drops the correction the moment the hold connects, so the drag
+stays clean.
 
 </td></tr>
 </table>
@@ -339,7 +337,7 @@ connects, so the drag stays clean.
 
 ---
 
-## 🎛 Profiles by archetype
+## 🎛 Presets by archetype
 
 Presets live in `\profiles\` and auto-select on species and server tag.
 
@@ -415,10 +413,10 @@ cut `range` first — it's the only real cost knob.
 Honest edges, so nobody buys a fantasy:
 
 - `Teleport` moves the client, not the server tick — long hops rubber-band.
-- `Hitbox draw` needs the branch offsets to be fresh; a day-one patch can grey it out.
+- `Hitbox draw` needs fresh branch offsets; a day-one patch can grey it out.
 - `Grab helper` covers grab-capable species only, pounce markers pounce-capable only.
 - Growth multiplier is client-side: it feeds the same curve, it doesn't invent stats.
-- The overlay does not run on Linux, Proton or GeForce Now.
+- No Linux, Proton or GeForce Now support.
 
 ---
 
@@ -602,6 +600,9 @@ software is allowed, at your own risk. Nothing here guarantees account safety.
 
 <br>
 
+<sub><a href="#top">↑ back to top</a></sub>
+
+</div>
 <sub><a href="#top">↑ back to top</a></sub>
 
 </div>
